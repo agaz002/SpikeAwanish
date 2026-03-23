@@ -1,0 +1,15 @@
+{
+  "name": "spike3",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.23.5",
+    "@tailwindcss/vite": "^4.2.2",
+    "meteor-node-stubs": "^1.2.12",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.2"
+  }
+}
